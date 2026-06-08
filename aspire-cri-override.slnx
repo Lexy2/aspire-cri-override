@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="aspire-cri-override.AppHost/aspire-cri-override.AppHost.csproj" />
+  <Project Path="aspire-cri-override.App/aspire-cri-override.App.csproj" />
+</Solution>

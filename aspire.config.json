@@ -1,0 +1,5 @@
+{
+  "appHost": {
+    "path": "aspire-cri-override.AppHost/aspire-cri-override.AppHost.csproj"
+  }
+}
